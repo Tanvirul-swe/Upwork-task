@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "678012084096",
+    "project_id": "cashful-9f540",
+    "storage_bucket": "cashful-9f540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678012084096:android:bdac6e4e1aa7a79382eb65",
+        "android_client_info": {
+          "package_name": "com.cashful.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678012084096-j5tfdbds5oglhoon2mf230juiml6rqna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashful.application",
+            "certificate_hash": "df561e41fed71e2d4ee0bb87441765a66c8772ba"
+          }
+        },
+        {
+          "client_id": "678012084096-qvdepk2k3gjuejr0d47hl5n1l1lfl7r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eoy7I0nk_uy6iaHfFZ2-cb7Id6ycC4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678012084096-qvdepk2k3gjuejr0d47hl5n1l1lfl7r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678012084096:android:25f9b2f35554879e82eb65",
+        "android_client_info": {
+          "package_name": "com.cashful.deviceinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678012084096-qvdepk2k3gjuejr0d47hl5n1l1lfl7r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eoy7I0nk_uy6iaHfFZ2-cb7Id6ycC4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678012084096-qvdepk2k3gjuejr0d47hl5n1l1lfl7r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
